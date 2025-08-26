@@ -1,9 +1,4 @@
 
-
-// ✅ Portafolio en un solo componente (React + Tailwind)
-// - Full width
-// - Contenido personalizado para Andrés Roman Pulido Cornejo
-
 const PROJECTS = [
   {
     title: "QuickDrive – Renta de autos",
